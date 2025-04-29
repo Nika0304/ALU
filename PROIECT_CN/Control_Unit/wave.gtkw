@@ -1,0 +1,45 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Wed Apr 16 15:49:38 2025
+[*]
+[dumpfile] "/home/lica/workspace/PROIECT_CN/Control_Unit/dump.vcd"
+[dumpfile_mtime] "Wed Apr 16 15:47:39 2025"
+[dumpfile_size] 4011
+[savefile] "/home/lica/workspace/PROIECT_CN/Control_Unit/wave.gtkw"
+[timestart] 0
+[size] 1920 1080
+[pos] 38 59
+*-18.600000 901000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Control_Unit_tb.
+[sst_width] 276
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 325
+@28
+Control_Unit_tb.clk
+Control_Unit_tb.rst_b
+Control_Unit_tb.s[1:0]
+Control_Unit_tb.start
+Control_Unit_tb.q0
+Control_Unit_tb.a_8
+Control_Unit_tb.cnt[2:0]
+@800022
+Control_Unit_tb.con.c[10:0]
+@28
+(0)Control_Unit_tb.con.c[10:0]
+(1)Control_Unit_tb.con.c[10:0]
+(2)Control_Unit_tb.con.c[10:0]
+(3)Control_Unit_tb.con.c[10:0]
+(4)Control_Unit_tb.con.c[10:0]
+(5)Control_Unit_tb.con.c[10:0]
+(6)Control_Unit_tb.con.c[10:0]
+(7)Control_Unit_tb.con.c[10:0]
+(8)Control_Unit_tb.con.c[10:0]
+(9)Control_Unit_tb.con.c[10:0]
+(10)Control_Unit_tb.con.c[10:0]
+@1001200
+-group_end
+@29
+Control_Unit_tb.con.finish
+[pattern_trace] 1
+[pattern_trace] 0
